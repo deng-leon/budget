@@ -1,0 +1,14 @@
+{
+  "_output_dir": "D:\\Programming\\Python",
+  "_template": "https://github.com/deng-leon/cookiecutter-hypermodern-fastapi",
+  "author": "Leon Deng",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "plant@leon.garden",
+  "friendly_name": "Budget",
+  "github_user": "deng-leon",
+  "license": "MIT",
+  "package_name": "budget",
+  "project_name": "budget",
+  "version": "0.0.0"
+}
